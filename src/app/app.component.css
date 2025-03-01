@@ -1,0 +1,10 @@
+.active{
+    color:rgb(16, 72, 72);
+    background-color: bisque;
+}
+
+.nonactive{
+    color:rgb(191, 250, 29);
+    background-color: rgb(126, 178, 243);
+}
+
